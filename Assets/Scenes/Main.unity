@@ -7266,6 +7266,71 @@ Transform:
   m_Father: {fileID: 111982956}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &419159621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 419159622}
+  - component: {fileID: 419159623}
+  m_Layer: 0
+  m_Name: Clue4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &419159622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419159621}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.214362, y: 3.9980469, z: 9.338914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1892405056}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!328 &419159623
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419159621}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: f12b7e2c9a5960244b36af1af080fc51, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 608366945}
+  m_TargetTexture: {fileID: 8400000, guid: cecc0ca87a6375942b9a88fdcaf58ef3, type: 2}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 2
+  m_AspectRatio: 3
+  m_DataSource: 0
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 1
+  m_TargetAudioSources:
+  - {fileID: 244148707}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
 --- !u!1 &438548590
 GameObject:
   m_ObjectHideFlags: 0
@@ -8152,6 +8217,71 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643670680}
   m_Mesh: {fileID: -8420226331215810817, guid: c9edded5f64fed140a71dabd6fc4ade2, type: 3}
+--- !u!1 &664087383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 664087384}
+  - component: {fileID: 664087385}
+  m_Layer: 0
+  m_Name: Clue3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &664087384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664087383}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.214362, y: 3.9980469, z: 9.338914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1892405056}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!328 &664087385
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664087383}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: df42af87e31b36940957944cdfb9973d, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 608366945}
+  m_TargetTexture: {fileID: 8400000, guid: b3c06b9ee0dc1ec499b62c0dbec12098, type: 2}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 2
+  m_AspectRatio: 3
+  m_DataSource: 0
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 1
+  m_TargetAudioSources:
+  - {fileID: 244148707}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
 --- !u!1 &667351013
 GameObject:
   m_ObjectHideFlags: 0
@@ -14222,6 +14352,8 @@ Transform:
   m_Children:
   - {fileID: 1797486711}
   - {fileID: 33702407}
+  - {fileID: 664087384}
+  - {fileID: 419159622}
   m_Father: {fileID: 1693592287}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -14900,6 +15032,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6cf9fceac9c0c34288ee6b0bb043791, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Clue1: {fileID: 2100000, guid: bf2e24b011c7fda4abb13ab3185524fe, type: 2}
+  Clue2: {fileID: 2100000, guid: 574e173f90a7b224b8e7edb2bdcfd542, type: 2}
+  Clue3: {fileID: 2100000, guid: 11ad738346dfa40458afacd63094491b, type: 2}
+  Clue4: {fileID: 2100000, guid: 765dbba12bd5c7d4f800c1010f0c3361, type: 2}
+  Video1: {fileID: 1797486709}
+  Video2: {fileID: 33702406}
+  Video3: {fileID: 664087383}
+  Video4: {fileID: 419159621}
+  VideoIdle: {fileID: 0}
+  VideoSuccess: {fileID: 0}
+  VideoWrongNumber: {fileID: 0}
 --- !u!1 &2002475087
 GameObject:
   m_ObjectHideFlags: 0
@@ -18210,6 +18353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdcdaae42c76ef24c89846aaad4bd771, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameLogic: {fileID: 1965821598}
 --- !u!4 &1788414805432281989
 Transform:
   m_ObjectHideFlags: 0

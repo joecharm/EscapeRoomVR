@@ -8,6 +8,9 @@ public class Game_KeyPad : MonoBehaviour
     private int requiredKey = 3;
     // a boolean to control if the player can hit the button
     private bool canHit = true;
+    // reference to the main game logic file, used to trigger the next puzzles in the changeKey method
+    public GameLogic gameLogic;
+
 
     // checkKey will see if the key input number matches what is required
     public string checkKey(int passedKey)
@@ -35,19 +38,23 @@ public class Game_KeyPad : MonoBehaviour
                 // player entered first correct key.
                 // play the second clue video and set the next required key to 2.
                 requiredKey = 2;
+                gameLogic.activateSecondPuzzle();
                 break;
             case 2:
                 // player enters the correct key
-                // play the third clue video and set the next required key to 8.
+                // play the third clue video and set the next required key to 8
                 requiredKey = 8;
+                gameLogic.activateThirdPuzzle();
                 break;
             case 8:
                 // player enters the correct key
                 // play the fourth clue video and set the next required key to 7.
                 requiredKey = 7;
+                gameLogic.activateFourthPuzzle();
                 break;
             case 7:
-                // success door open
+                // success run the game complete method
+                gameLogic.gameComplete();
                 break;
         }
 
