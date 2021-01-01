@@ -644,7 +644,7 @@ GameObject:
   - component: {fileID: 6935938913905280961}
   m_Layer: 0
   m_Name: LSphere
-  m_TagString: Untagged
+  m_TagString: Hand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -840,7 +840,7 @@ GameObject:
   - component: {fileID: 7955385534655340271}
   m_Layer: 0
   m_Name: RCube
-  m_TagString: Untagged
+  m_TagString: Hand
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
