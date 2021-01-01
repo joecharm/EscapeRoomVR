@@ -13,8 +13,12 @@ public class Puzzle3_iPadBlurDecrease : MonoBehaviour
         // VR hand has a collider tagged 'Hand', this will run if the hand hits the button
         if (other.CompareTag("Hand"))
         {
-            if(controller.currentBlurLevel >= 0)
+            if(controller.currentBlurLevel > 0)
             {
+                // play the button animation 
+                Animator anim = GetComponent<Animator>();
+                anim.PlayInFixedTime("Puzzle3_Dec");
+
                 // decrement the currentBlurLevel property by 1 on the controller script
                 controller.currentBlurLevel--;
                 // run the changeBlur method which will update the blur to current intensity
