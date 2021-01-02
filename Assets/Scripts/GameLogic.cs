@@ -11,6 +11,8 @@ public class GameLogic : MonoBehaviour
     [SerializeField] private Material Clue1, Clue2, Clue3, Clue4;
     // The first clue video to play
     [SerializeField] private GameObject Video1, Video2, Video3, Video4, VideoIdle, VideoSuccess, VideoWrongNumber;
+    // Puzzle 4 Logic Script
+    public Puzzle4_Controller puzzle4;
 
     // on game start 
     private void Start()
@@ -71,6 +73,7 @@ public class GameLogic : MonoBehaviour
         Video4.SetActive(true);
 
         // spawn a red button next to the door, this button will aloow the user to open the door to the balcony
+        puzzle4.spawnRedButton();
     }
 
     // activate game complete
