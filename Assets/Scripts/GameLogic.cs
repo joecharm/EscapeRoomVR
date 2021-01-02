@@ -8,11 +8,11 @@ public class GameLogic : MonoBehaviour
     private float playerTime;
     private bool gameRunning = false;
     // Material which has the video texture (render texture) asigned to base map.
-    [SerializeField] private Material Clue1, Clue2, Clue3, Clue4;
+    [SerializeField] private Material Clue1, Clue2, Clue3, Clue4, VideoSuccessMaterial;
     // The first clue video to play
-    [SerializeField] private GameObject Video1, Video2, Video3, Video4, VideoIdle, VideoSuccess, VideoWrongNumber;
+    [SerializeField] private GameObject Video1, Video2, Video3, Video4, VideoSuccess, MainDoor;
     // Puzzle 4 Logic Script
-    public Puzzle4_Controller puzzle4;
+    public Puzzle4_Controller puzzle4; 
 
     // on game start 
     private void Start()
@@ -50,10 +50,10 @@ public class GameLogic : MonoBehaviour
     // activates the third puzzle to play
     public void activateThirdPuzzle()
     {
-        // Turn off the first clue video
+        // Turn off the second clue video
         Video2.SetActive(false);
 
-        // Switch out the material on the screen to Clue2 and activate the Clue video
+        // Switch out the material on the screen to Clue3 and activate the Clue video
         GetComponent<Renderer>().material = Clue3;
 
         // Set the video to active
@@ -63,10 +63,10 @@ public class GameLogic : MonoBehaviour
     // activates the fourth puzzle to play
     public void activateFourthPuzzle()
     {
-        // Turn off the first clue video
+        // Turn off the third clue video
         Video3.SetActive(false);
 
-        // Switch out the material on the screen to Clue2 and activate the Clue video
+        // Switch out the material on the screen to Clue4 and activate the Clue video
         GetComponent<Renderer>().material = Clue4;
 
         // Set the video to active
@@ -79,6 +79,17 @@ public class GameLogic : MonoBehaviour
     // activate game complete
     public void gameComplete()
     {
+        // turn off the fourth video
+        Video4.SetActive(false);
 
+        // Switch out the material on the screen to the success video
+        GetComponent<Renderer>().material = VideoSuccessMaterial;
+
+        // set the success video active
+        VideoSuccess.SetActive(true);
+
+        // open the door
+        Animator mainDoorAnimation = MainDoor.GetComponent<Animator>();
+        mainDoorAnimation.PlayInFixedTime("LiftDoor");
     }
 }
