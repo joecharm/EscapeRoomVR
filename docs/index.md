@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## How can you get out while staying in, during the middle of lockdown ?
 
-You can use the [editor on GitHub](https://github.com/joecharm/EscapeRoomVR/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Escape Room VR is a fantastic escape room experience themed around lockdown, which you can play during lockdown, escaping in VR even nif you're still a bit stuck in real life !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Escape Room VR Logo](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/EscapeRoomVR-Logo.png)
 
-### Markdown
+It is an immersive escape room experience combining thought provoking puzzles with realistic environments, set in a soaring cityscape.  There is plenty of VR functionality and interaction and puzzles of the sort you might find in a physical escape room.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This current release is a solo experience, but we'd love to hear your feedback and there are future plans to:
+1. Host the environment to make it multiplayer
+2. Play against your friends with competative escaping, leaderboards and teams
+3. A range of different scenarios and supporting narratives
+4. An expanded range of puzzes and tasks which will push you and VR interactivity to the limit
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joecharm/EscapeRoomVR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDeVyxtdSUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
