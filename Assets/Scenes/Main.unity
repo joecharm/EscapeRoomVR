@@ -742,8 +742,8 @@ Transform:
   - {fileID: 543450652202253702}
   - {fileID: 1220773158}
   - {fileID: 257328597}
-  - {fileID: 144998385}
   - {fileID: 1027564978}
+  - {fileID: 144998385}
   - {fileID: 162226613}
   - {fileID: 1084095011}
   - {fileID: 1380959151}
@@ -5061,7 +5061,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 111982956}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!167 &1027564979
 AudioReverbZone:
@@ -10532,13 +10532,13 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 1.36144
+  m_Height: 1.72
   m_Radius: 0.1
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 0.86, z: 0}
 --- !u!114 &1932528523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10567,7 +10567,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainVRCamera: {fileID: 1259849508}
   controller: {fileID: 1932528522}
-  characterHeight: 1.3
 --- !u!1 &1956240220
 GameObject:
   m_ObjectHideFlags: 0
