@@ -90,6 +90,6 @@ public class GameLogic : MonoBehaviour
 
         // open the door
         Animator mainDoorAnimation = MainDoor.GetComponent<Animator>();
-        mainDoorAnimation.PlayInFixedTime("LiftDoor");
+        mainDoorAnimation.PlayInFixedTime("LiftDoorOpen");
     }
 }
