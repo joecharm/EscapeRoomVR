@@ -19,6 +19,6 @@ This current release is a solo experience, but we'd love to hear your feedback a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDeVyxtdSUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
-### Developed in Unity 2019.4.15
+**Developed in Unity 2019.4.15**
 
-### Tested on WMR headsets
+**Tested on WMR headsets**
