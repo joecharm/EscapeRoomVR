@@ -13,3 +13,4 @@ It has a range of VR interactables and uses particle effects, textures, videos a
 ### Assets used:
 
 * **AllSky Free** SkyBox from [rpgwhitelock](https://assetstore.unity.com/publishers/3830) : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+* 
