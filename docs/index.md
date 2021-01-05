@@ -4,7 +4,7 @@ Escape Room VR is a fantastic escape room experience themed around lockdown, whi
 
 <hr>
 
-![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.jpg)
+![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.png)
 
 <hr>
 
