@@ -7,7 +7,7 @@ public class Puzzle4_ButtonFeedback : MonoBehaviour
     // Door to open
     public GameObject puzzle4Door;
     // tracking if the door has been opened
-    private bool doorTriggered = false;
+   // private bool doorTriggered = false;
 
     // on trigger enter of button
     private void OnTriggerEnter(Collider other)
@@ -18,16 +18,16 @@ public class Puzzle4_ButtonFeedback : MonoBehaviour
         anim.PlayInFixedTime("Puzzle4_Button");
 
 
-        if (doorTriggered == false)
-        {
+        //if (doorTriggered == false)
+       // {
             // Open the door
             Animator doorAnim = puzzle4Door.GetComponent<Animator>();
             // play the door animation
             doorAnim.PlayInFixedTime("Puzzle4_Door");
 
             // set door triggered to true
-            doorTriggered = true;
-        }
+            //doorTriggered = true;
+       // }
 
        
 
