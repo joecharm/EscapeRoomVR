@@ -1,6 +1,6 @@
 ## How can you get out while staying in, during the middle of lockdown ?
 
-Escape Room VR is a fantastic escape room experience themed around lockdown, which you can play during lockdown, escaping in VR even nif you're still a bit stuck in real life !
+Escape Room VR is a fantastic escape room experience themed around lockdown, which you can play during lockdown, escaping in VR even if you're still a bit stuck in real life !
 
 <hr>
 
