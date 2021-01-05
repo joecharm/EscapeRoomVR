@@ -9,3 +9,7 @@ It was developed in **Unity 2019.4.15** on an **ASUS ROG laptop** using the *Uni
 The 3D modelling of the room (and all the assets in it) was done using **Blender** and the city scape was developed using the **Scenecity** plugin for Blender.
 
 It has a range of VR interactables and uses particle effects, textures, videos and lots of things you can grab and shake about to create a virtual escape room experience.
+
+### Assets used:
+
+* **AllSky Free** SkyBox from [rpgwhitelock](https://assetstore.unity.com/publishers/3830) : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
