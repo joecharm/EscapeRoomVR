@@ -10,10 +10,13 @@ The 3D modelling of the room (and all the assets in it) was done using **Blender
 
 It has a range of VR interactables and uses particle effects, textures, videos and lots of things you can grab and shake about to create a virtual escape room experience.
 
-[Media Theory](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Media.docx)
-[Marketing Plan](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Marketing.docx)
+* [Media Theory](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Media.docx)
+* [Marketing Plan](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Marketing.docx)
 
 ### Assets used:
 
 * **AllSky Free** SkyBox from [rpgwhitelock](https://assetstore.unity.com/publishers/3830) : https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
 * **Scenecity** Blender add in [SceneCity Website](http://www.cgchan.com/)
+
+
+
