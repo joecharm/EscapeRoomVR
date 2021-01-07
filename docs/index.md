@@ -4,13 +4,13 @@ Escape Room VR is a fantastic escape room experience themed around lockdown, whi
 
 <hr>
 
-![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.png)
+![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.jpg)
 
 <hr>
 
 It is an immersive escape room experience combining thought provoking puzzles with realistic environments, set in a soaring cityscape.  There is plenty of VR functionality and interaction with puzzles of the sort you might find in a physical escape room.
 
-![Part of the lab](https://github.com/joecharm/EscapeRoomVR/docs/BenchTop1.png)
+![Part of the lab](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/BenchTop1.jpg)
 
 This current release is a solo experience, but we'd love to hear your feedback and there are future plans to:
 1. Host the environment to make it multiplayer
