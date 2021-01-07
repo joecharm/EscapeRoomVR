@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 5538056525390696763}
   - component: {fileID: 5538056525390696757}
   m_Layer: 0
-  m_Name: Metal
+  m_Name: Puzzle1 Spatula
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -187,7 +187,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ab33076f3a4a4c64b8a18b7f82e1e69c, type: 2}
+  - {fileID: 2100000, guid: 9e0d59fcf6656a543b82a6b77a815273, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
