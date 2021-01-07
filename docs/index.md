@@ -17,8 +17,10 @@ This current release is a solo experience, but we'd love to hear your feedback a
 2. Play against your friends with competative escaping, leaderboards and teams
 3. A range of different scenarios and supporting narratives
 4. An expanded range of puzzes and tasks which will push you and VR interactivity to the limit
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_LMrw8H0C8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <hr>
 
 * Developed in **Unity 2019.4.15**
