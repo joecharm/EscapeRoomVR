@@ -12903,9 +12903,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5790ffb62e1e8ba4ab4d2e7d49e0b4db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  DrawerLimit: 1
-  Drawer: {fileID: 0}
-  DrawPosition: 0
 --- !u!4 &1892131856 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1831931990800338312, guid: 44065b0a954a148498f6b8eb122bd2fa,
@@ -13006,6 +13003,7 @@ GameObject:
   - component: {fileID: 3904893453649512895}
   - component: {fileID: 1932528522}
   - component: {fileID: 1932528524}
+  - component: {fileID: 1932528525}
   m_Layer: 0
   m_Name: XR Rig
   m_TagString: Untagged
@@ -13092,6 +13090,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainVRCamera: {fileID: 1259849508}
   controller: {fileID: 1932528522}
+--- !u!114 &1932528525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932528519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc4f2c0214c9b494fa7eb5b8b2c02885, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_System: {fileID: 1932528523}
+  m_TurnAmount: 30
+  m_DebounceTime: 0.5
+  m_EnableTurnLeftRight: 1
+  m_EnableTurnAround: 1
+  m_TurnUsage: 0
+  m_Controllers:
+  - {fileID: 585804219}
+  m_DeadZone: 0.75
 --- !u!1 &1956240220
 GameObject:
   m_ObjectHideFlags: 0
@@ -22316,7 +22335,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1932528519}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1ac6916bc3db4214dbe74106e4ad724b, type: 3}
   m_Name: 
