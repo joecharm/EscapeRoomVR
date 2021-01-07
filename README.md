@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/321462168.svg)](https://zenodo.org/badge/latestdoi/321462168)
+
 ## EscapeRoomVR
 
 ![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.jpg)
@@ -14,6 +16,7 @@ It has a range of VR interactables and uses particle effects, textures, videos a
 * [Marketing Plan](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Marketing.docx)
 
 ![Part of the lab](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/BenchTop1.jpg)
+
 
 ### Assets used:
 
