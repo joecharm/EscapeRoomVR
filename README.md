@@ -13,7 +13,7 @@ It has a range of VR interactables and uses particle effects, textures, videos a
 <hr>
 <a href="https://github.com/joecharm/EscapeRoomVR/releases/tag/V1.0.1">First Release - available here</a>
 <hr>
-<a href="https://youtu.be/j_LMrw8H0C8" target="_blank">Watch the elevator pitch on YouiTube here</a>
+<a href="https://youtu.be/j_LMrw8H0C8" target="_blank">Watch the elevator pitch on YouTube here</a>
 <hr>
 
 * [Media Theory](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Media.docx)
