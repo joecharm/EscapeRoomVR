@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/321462168.svg)](https://zenodo.org/badge/latestdoi/321462168)
-
 ## EscapeRoomVR
 
 ![Escape Room VR Logo](https://salt.swan.ac.uk/wp-content/downloads/EscapeRoomVR-Logo.jpg)
@@ -12,11 +10,18 @@ The 3D modelling of the room (and all the assets in it) was done using **Blender
 
 It has a range of VR interactables and uses particle effects, textures, videos and lots of things you can grab and shake about to create a virtual escape room experience.
 
+<hr>
+[First Release - available here](https://github.com/joecharm/EscapeRoomVR/releases/tag/V1.0.1)
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_LMrw8H0C8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
 * [Media Theory](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Media.docx)
 * [Marketing Plan](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Marketing.docx)
 
 ![Part of the lab](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/BenchTop1.jpg)
-
 
 ### Assets used:
 
