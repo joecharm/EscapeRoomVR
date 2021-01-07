@@ -11,11 +11,9 @@ The 3D modelling of the room (and all the assets in it) was done using **Blender
 It has a range of VR interactables and uses particle effects, textures, videos and lots of things you can grab and shake about to create a virtual escape room experience.
 
 <hr>
-[First Release - available here](https://github.com/joecharm/EscapeRoomVR/releases/tag/V1.0.1)
+<a href="https://github.com/joecharm/EscapeRoomVR/releases/tag/V1.0.1">First Release - available here</a>
 <hr>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_LMrw8H0C8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<a href="https://youtu.be/j_LMrw8H0C8" target="_blank">Watch the elevator pitch on YouiTube here</a>
 <hr>
 
 * [Media Theory](https://github.com/joecharm/EscapeRoomVR/blob/main/docs/Media.docx)
